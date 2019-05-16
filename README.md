@@ -1,4 +1,2 @@
-# hello-world
-just another repository
+Qt based Calculator
 
-kkdfhkadfjsdbb
